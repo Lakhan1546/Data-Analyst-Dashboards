@@ -1,4 +1,4 @@
-# Data-Analyst-Dashboards
+# Data-Analyst-PowerBi Dashboards
 Power Bi Project
-Tableau Project
+
 
